@@ -47,7 +47,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 4. Push to the branch (git push origin feature/YourFeature).
 5. Open a pull request.
 
-License
+## License
 This project is Unlicensed
 
 [@adharvarun](https://www.github.com/adharvarun)
